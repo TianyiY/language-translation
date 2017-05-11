@@ -1,2 +1,6 @@
 # language-translation
-neural network machine translation
+Training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
+
+software:
+- python3.5
+- tensorflow
